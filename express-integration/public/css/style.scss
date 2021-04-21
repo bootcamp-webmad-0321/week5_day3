@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  font-weight: 200;
+}
+
+.navbar {
+  margin-bottom: 50px;
+}
+
+#map, #restarants-map {
+  height: 60vh;
+  margin: 0;
+  background-color: red;
+}
